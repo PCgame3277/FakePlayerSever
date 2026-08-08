@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "My fake player resource pack Add-On!",
+   "name": "Fake Player Serve",
+   "uuid":"59e78573-f3eb-4167-87c0-e37f5c84056b",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "My fake player Add-On!",
+     "type": "resources",
+     "uuid": "89fdd073-cbfb-443f-bcdb-bc3eb5181acd",
+     "version": [1, 0, 0]
+   }
+ ]
+}

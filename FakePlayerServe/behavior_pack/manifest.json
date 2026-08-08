@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "My Fake Player behavior pack Add-On!",
+    "name": "Fake Player Serve",
+    "uuid":"a661ef77-f4cc-4703-b45c-fa7545cdcd8d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "My Fake Player Add-On!",
+          "type": "data",
+          "uuid": "da9e9736-1e59-493d-932a-99a88856daeb",
+          "version": [1, 0, 0]
+      }
+    ],
+  "dependencies": [
+    {
+     "uuid":"59e78573-f3eb-4167-87c0-e37f5c84056b",
+      "version":[1,0,0]
+    }
+ ]
+}
